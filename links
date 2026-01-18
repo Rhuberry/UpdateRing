@@ -1,1 +1,35 @@
-https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
+# https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
+
+## Windows Versions
+
+### 25H2
+- **Servicing option:** General Availability Channel  
+- **Availability date:** 2025-09-30  
+- **End of updates (Home, Pro, Pro Education, Pro for Workstations):** 2027-10-12  
+- **End of updates (Enterprise, Education, IoT Enterprise, Enterprise multi-session):** 2028-10-10  
+- **Latest update:** 2026-01 B  
+- **Latest revision date:** 2026-01-13  
+- **Latest build:** 26200.7623  
+
+---
+
+### 24H2
+- **Servicing option:** General Availability Channel  
+- **Availability date:** 2024-10-01  
+- **End of updates (Home, Pro, Pro Education, Pro for Workstations):** 2026-10-13  
+- **End of updates (Enterprise, Education, IoT Enterprise, Enterprise multi-session):** 2027-10-12  
+- **Latest update:** 2026-01 B  
+- **Latest revision date:** 2026-01-13  
+- **Latest build:** 26100.7623  
+
+---
+
+### 23H2
+- **Servicing option:** General Availability Channel  
+- **Availability date:** 2023-10-31  
+- **End of updates (Home, Pro, Pro Education, Pro for Workstations):** End of updates  
+- **End of updates (Enterprise, Education, IoT Enterprise, Enterprise multi-session):** 2026-11-10  
+- **Latest update:** 2026-01 B  
+- **Latest revision date:** 2026-01-13  
+- **Latest build:** 22631.6491  
+
